@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.appsforbd",
+    "sha256_cert_fingerprints":
+    ["0E:EB:24:A7:B7:2A:09:12:0D:4F:90:D3:AE:3B:B7:C5:1D:4E:99:B3:F0:DF:52:A1:FB:A0:60:E7:64:DC:83:0E"]
+  }
+}]
